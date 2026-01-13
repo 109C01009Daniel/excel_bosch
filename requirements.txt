@@ -1,0 +1,18 @@
+# Excel 搜索系統 - 依賴包
+# Python 3.8+
+
+# Excel 處理
+openpyxl>=3.1.0          # 處理 .xlsx 文件
+xlrd>=2.0.1              # 處理 .xls 文件
+
+# 命令行工具
+click>=8.1.0             # CLI 框架
+tqdm>=4.66.0             # 進度條
+colorama>=0.4.6          # 彩色輸出
+
+# Web 應用
+flask>=3.0.0             # Web 框架
+flask-cors>=4.0.0        # CORS 支持
+
+# 工具庫
+python-dateutil>=2.8.0   # 日期處理

@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large archives (optional - comment out if needed)
+*.zip
+
+# Test files
+test_demo.db
+
+# Data directories (exclude from backup)
+Sharepoint/
+ETF2/
+每日進度/
+開發流程/
+
+# Generated reports and CSV files
+*.csv
+失敗檔案完整分析報告.txt
+完整檔案狀態清單.csv
+ZIP搗壞檔案報告_會議用.md
+ZIP搗壞檔案清單_匯報用.csv
+ZIP搗壞檔案清單_簡潔版.txt
+ZIP搗壞檔案統計摘要.txt

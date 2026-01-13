@@ -1,0 +1,32 @@
+======================================================================
+  ZIP 損壞檔案統計摘要
+======================================================================
+
+總損壞檔案數: 113 個
+
+按目錄分類:
+----------------------------------------------------------------------
+Deneb - Documents/01_Project_Management             56 個 ( 49.6%)
+Deneb - Documents/04_Engineering                    25 個 ( 22.1%)
+Deneb - Documents/10_Meeting                        16 個 ( 14.2%)
+Deneb - Documents/08_Testing_and_Approbation         6 個 (  5.3%)
+Deneb - Documents/03_Quality_Management              4 個 (  3.5%)
+Deneb - Documents/05_Industrialization               1 個 (  0.9%)
+Deneb - Documents/12_Team_list                       1 個 (  0.9%)
+Deneb - Documents/Deneb Change log & Price risk list.xlsx   1 個 (  0.9%)
+Deneb - Documents/Deneb_ME_IPS_MAT_tracking_2023-Jun_Bosch_team.xlsx   1 個 (  0.9%)
+Deneb - Documents/09_RFQ                             1 個 (  0.9%)
+Deneb - Documents/Master Tracker_Deneb.xlsx          1 個 (  0.9%)
+
+======================================================================
+  整體索引狀態
+======================================================================
+
+總 Excel 檔案數:     332 個
+成功索引:           186 個 (56.0%)
+ZIP 損壞:           113 個 (34.0%)
+.xls 舊格式:         33 個 (10.0%)
+
+已索引單元格數:   2,432,059 個
+資料庫大小:       478.11 MB
+
